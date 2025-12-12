@@ -1,4 +1,4 @@
 git add .
-git commit -m "uploading by shell command .... as I am lazy"
+git commit -m $0
 git push origin master
 echo "git actions done.."
