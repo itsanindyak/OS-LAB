@@ -1,0 +1,4 @@
+noon is palindrome
+madam is palindrome
+racecar is palindrome
+noon is palindrome

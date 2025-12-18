@@ -1,0 +1,6 @@
+roll|name|marks
+101  | Ram    |78
+102| arkdip | 90
+103  | Amit   |85
+104  | anindya|99
+105  |koley|59
